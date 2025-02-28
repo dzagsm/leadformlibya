@@ -19,7 +19,7 @@ A modern library management system built with React, TypeScript, and Supabase.
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/dzagsm/leadformlibya.git
 cd projectliby
 ```
 
